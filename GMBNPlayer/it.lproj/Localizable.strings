@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  GMBNPlayer
+
+  Created by Cristiano Calicchia on 31/01/23.
+  
+*/
+
+"GMBN" = "GMBN";
+"Unknown error" = "Errore Sconosciuto";
+"GMBN Videos" = "Video GMBN";
+"Load more..." = "Carica altri...";
+"Error" = "Errore";
+"Generic Error" = "Errore Generico";
+"Try again!" = "Prova ancora!";
+"Published: %@" = "Pubblicato il: %@";
+"Duration: %@" = "Durata: %@";
+"Comments" = "Commenti";
+"No comments yet!" = "Non ci sono ancora commenti!";
+"Could not load comments" = "Non sono riuscito a carica i commenti";
+"Ok" = "Ok";

@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  GMBNPlayer
+
+  Created by Cristiano Calicchia on 31/01/23.
+  
+*/
+
+"GMBN" = "GMBN";
+"Unknown error" = "Unknown error";
+"GMBN Videos" = "GMBN Videos";
+"Load more..." = "Load more...";
+"Error" = "Error";
+"Generic Error" = "Generic Error";
+"Try again!" = "Try again!";
+"Published:" = "Published:";
+"Duration:" = "Duration:";
+"Comments" = "Comments";
+"No comments yet!" = "No comments yet!";
+"Could not load comments" = "Could not load comments";
+"Ok" = "Ok";
+
+
